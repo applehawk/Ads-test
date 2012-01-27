@@ -5,3 +5,31 @@
  *= require_self
  *= require_tree . 
 */
+
+body {
+  color: #CCCCCC;
+}
+
+#header {
+  color: red;
+}
+
+#main {
+  color: green;
+}
+
+#footer {
+  color: black;
+}
+
+#centerform {
+  margin: 0;
+  auto
+}
+
+#leftcontrol {
+}
+
+#rightcontrol {
+
+}
